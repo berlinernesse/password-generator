@@ -1,7 +1,7 @@
 import React from "react";
 import "../App.css";
 
-function PasswordGenerator(){
+function PasswordDisplay(){
   
 
     return (
@@ -11,4 +11,4 @@ function PasswordGenerator(){
     );
 }
 
-export default PasswordGenerator;
+export default PasswordDisplay;
